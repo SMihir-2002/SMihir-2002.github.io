@@ -1,16 +1,30 @@
-# mihir_portfolio
 
-A new Flutter project.
+# Personal Portfolio
 
-## Getting Started
+This is My personal Portfolio.
 
-This project is a starting point for a Flutter application.
+## 🚀 About Me
+I'm a frontend Developer with a good experience in Flutter and skilled IOS and exploring few levels of Go-Lang and Python.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Tech Stack
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Flutter
+
+
+
+## FAQ
+
+#### How did you made it responsive?
+
+Answer : By using Layout builder and defined 3 views for Tab Mobile and WEB.
+
+#### How much time did you took to make this WEBSITE?
+
+Answer : It took me somewhere around 4-6 hours to build this.
+
+
+## Support
+
+For support, email smihir384@gmail.com.
+
